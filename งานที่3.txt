@@ -1,0 +1,24 @@
+﻿<html>
+<head><title>การจัดหน้าเว็บเพจด้วยตาราง </title> </head>
+<body>
+<table width="1250" border="1" bordercolor="gray" cellspacing="0" cellpadding="0">
+  <tr><td height="150" colspan="2" valign="top"><img src="10562.jpg"></td></tr>
+  <tr><td width="150" height="400" valign="top">
+    <table width="150" border="1" >
+       <tr><td width="150" bgcolor="#79d4f6"><a href=" ประวัติอำเภอท่าเรือ .html"> ประวัติอำเภอท่าเรือ </a></tr>
+       <tr><td width="150" bgcolor="#79d4f6"><a href="สถานที่ท่องเที่ยว.html">สถานที่ท่องเที่ยว</a></tr>
+         <tr><td width="150" bgcolor="#79d4f6"><a href="แนะนำโรงเรียน .html">แนะนำโรงเรียน </a></tr>
+      
+       
+     </table>
+</td>
+    <td width="1100" height="400"valign="top"> <img src="นิตยาน่าอยุ่.jpg"> </td>
+</tr>
+<tr>
+    <td height="90" colspan="2" align="center"bgcolor="#15f1f9">จัดทำโดย นางสาวภัคจิรา เฉลยวิมาร <br />
+     E-mail : 24057@Tharua.ac.th <br />
+    </tr>
+  </tr>
+</table>
+</body>
+</html>
